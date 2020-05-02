@@ -1,0 +1,29 @@
+{
+  "name": "codeforces-api-node",
+  "version": "0.0.1",
+  "description": "Just a better API wrapper for codeforces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maifeeulasad/codeforces-api-node.git"
+  },
+  "keywords": [
+    "codeforces",
+    "contest",
+    "acm",
+    "icpc",
+    "contest"
+  ],
+  "author": "MUA-Maifee Ul Asad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maifeeulasad/codeforces-api-node/issues"
+  },
+  "homepage": "https://github.com/maifeeulasad/codeforces-api-node#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
